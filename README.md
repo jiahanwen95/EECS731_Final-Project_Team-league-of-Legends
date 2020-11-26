@@ -1,7 +1,7 @@
 # EECS731_Final-Project_Team-league-of-Legends
 
 # Team member:
-Team members: Guanyu Li, Hanwen Jia, Yiju Yang,Rui Chen
+Team members: Hanwen Jia,Rui Chen,Guanyu Li,Yiju Yang
 
 # Two type of notebook
 pdf version
