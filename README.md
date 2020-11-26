@@ -1,6 +1,12 @@
 # EECS731_Final-Project_Team-league-of-Legends
+
 # Team member:
 Team members: Guanyu Li, Hanwen Jia, Yiju Yang,Rui Chen
+
+# Two type of notebook
+pdf version
+
+notebook version
 
 # Issues
 Due to a bug in github, some pictures cannot be displayed normally, so I added a kaggle share link.
