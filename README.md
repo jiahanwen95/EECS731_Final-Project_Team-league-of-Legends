@@ -2,7 +2,8 @@
 # Team member:
 Team members: Guanyu Li, Hanwen Jia, Yiju Yang,Rui Chen
 
-# Hanwen's work on kaggle 
+# Issues
+Due to a bug in github, some pictures cannot be displayed normally, so I added a kaggle share link.
 https://www.kaggle.com/hanwenjia/731-final-hanwen/comments
 
 # Project Synopsis
