@@ -2,6 +2,9 @@
 # Team member:
 Team members: Guanyu Li, Hanwen Jia, Yiju Yang,Rui Chen
 
+# Hanwen's work on kaggle 
+https://www.kaggle.com/hanwenjia/731-final-hanwen/comments
+
 # Project Synopsis
 Our project use data analysis to predict the outcome of the game based on
 various data in the moba game League of Legends。
