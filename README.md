@@ -9,7 +9,7 @@ pdf version
 notebook version
 
 # Issues
-Due to a bug in github, some pictures cannot be displayed normally, so I added a kaggle share link.
+Due to a bug in github, some pictures cannot be displayed normally, so I added a kaggle share link about part of work.
 https://www.kaggle.com/hanwenjia/731-final-hanwen/comments
 
 # Project Synopsis
