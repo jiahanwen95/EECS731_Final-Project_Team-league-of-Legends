@@ -8,7 +8,7 @@ https://www.kaggle.com/hanwenjia/731-final-hanwen/comments
 
 # Project Synopsis
 Our project use data analysis to predict the outcome of the game based on
-various data in the moba game League of Legends。
+various data in the moba game League of Legends。(more detail on report file)
 
 # Division of team members
 Hanwen Jia: Predicting results based on importance of overall map
