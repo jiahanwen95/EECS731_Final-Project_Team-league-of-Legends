@@ -10,8 +10,10 @@ various data in the moba game League of Legends。
 Hanwen Jia: Predicting results based on importance of overall map
 resources, and planing project structure. Collecting a dataset through Riot
 API.
+
 Rui Chen: Predicting the result of game through early game. Organizing the
 dataset from kaggle.
+
 Guanyu and Yiju Yang: Analyzing the champion selection and winning rate
 with different combination.
 
